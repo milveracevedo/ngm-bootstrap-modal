@@ -1,0 +1,23 @@
+{
+  "name": "ngm-bootstrap-modal",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/milveracevedo/ngm-bootstrap-modal"
+  },
+  "author": {
+    "name": "Milver Flores Acevedo",
+    "email": "milverfloresacevedo@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/milveracevedo/ngm-bootstrap-modal/issues"
+  }
+}
